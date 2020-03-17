@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register</title>
+	<style>
+h1 {
+	color:blue;
+	font-family:verdana;
+	font-size:300%;
+}
+p {
+color:red;
+font-family:courier;
+font-size:160%;	
+}
+</style>
+</head>
+<body bgcolor="powderblue">
+	<pre>
+<h1>You have successfully logged in</h1>
+<p>Now,Go ahead and enjoy different features of Python anywhere.</p>
+
+</body>
+</html>
